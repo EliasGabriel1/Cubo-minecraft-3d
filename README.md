@@ -1,1 +1,1 @@
-# Cubo-minecraft-3d.
+# Cubo-minecraft-3d
